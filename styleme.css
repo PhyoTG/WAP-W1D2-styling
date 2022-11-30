@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+    margin: 3% 3%;
+}
+
+h1{
+    color: chocolate;
+}
+
+.highlight-text{
+    font-weight: 600;
+    font-style: italic;
+}
+
+.n-frame{
+    font-size: 22px;
+    color: chocolate;
+}
+
+.n-child{
+    padding: 1% 1%;
+    font-size: 14px;
+    color: #000;
+}
